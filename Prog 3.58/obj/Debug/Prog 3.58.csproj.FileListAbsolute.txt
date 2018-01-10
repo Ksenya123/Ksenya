@@ -1,0 +1,7 @@
+C:\Users\810997\Desktop\Kseniya\Prog 3.58\bin\Debug\Prog 3.58.exe.config
+C:\Users\810997\Desktop\Kseniya\Prog 3.58\bin\Debug\Prog 3.58.exe
+C:\Users\810997\Desktop\Kseniya\Prog 3.58\bin\Debug\Prog 3.58.pdb
+C:\Users\810997\Desktop\Kseniya\Prog 3.58\obj\Debug\Prog 3.58.csprojResolveAssemblyReference.cache
+C:\Users\810997\Desktop\Kseniya\Prog 3.58\obj\Debug\Prog 3.58.csproj.CoreCompileInputs.cache
+C:\Users\810997\Desktop\Kseniya\Prog 3.58\obj\Debug\Prog 3.58.exe
+C:\Users\810997\Desktop\Kseniya\Prog 3.58\obj\Debug\Prog 3.58.pdb
